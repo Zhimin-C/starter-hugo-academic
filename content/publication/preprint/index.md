@@ -1,12 +1,17 @@
 ---
-title: "An example preprint / working paper"
+title: "Self-Supervised Modality-Invariant and Modality-Specific Feature Learning for 3D Objects"
 authors:
-- admin
-date: "2019-04-07T00:00:00Z"
+  - Longlong Jing
+  - admin
+  - Bing Li
+  - Yingli Tian
+
+
+date: "2021-10-07T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2017-01-01T00:00:00Z"
+publishDate: "2021-10-07T00:00:00Z"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -15,36 +20,20 @@ publishDate: "2017-01-01T00:00:00Z"
 publication_types: ["3"]
 
 # Publication name and optional abbreviated publication name.
-publication: ""
-publication_short: ""
 
-abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
+
+abstract: While most existing self-supervised 3D feature learning methods mainly focus on point cloud data, this paper explores the inherent multimodal attributes of 3D objects. We propose to jointly learn effective features from different modalities including image, point cloud, and mesh with heterogeneous networks from unlabeled 3D data. Our proposed novel self-supervised model learns two types of distinct features. modality-invariant features and modality-specific features. The modality-invariant features capture high-level semantic information across different modalities with minimum modality discrepancy, while the modality-specific features capture specific characteristics preserved in each modality. These two types of features provide a more comprehensive representation of 3D data. The quality of the learned features is evaluated on different downstream tasks including 3D object recognition, 3D within-modal retrieval, and 3D cross-modal retrieval tasks with three data modalities including image, point cloud, and mesh. Our proposed method significantly outperforms the state-of-the-art self-supervised methods for all three tasks and even achieves comparable performance with the state-of-the-art supervised methods on the ModelNet10 and ModelNet40 datasets.
 
 # Summary. An optional shortened abstract.
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
 
-tags:
-- Source Themes
-featured: false
 
 links:
-- name: Custom Link
-  url: http://example.org
-url_pdf: http://arxiv.org/pdf/1512.04133v1
-url_code: 'https://github.com/wowchemy/wowchemy-hugo-themes'
-url_dataset: '#'
-url_poster: '#'
-url_project: ''
-url_slides: ''
-url_source: '#'
-url_video: '#'
+url_pdf: https://openreview.net/pdf?id=RunqFdkPuS
+
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
-image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/s9CC2SKySJM)'
-  focal_point: ""
-  preview_only: false
+
 
 # Associated Projects (optional).
 #   Associate this publication with one or more of your projects.
@@ -52,18 +41,12 @@ image:
 #   E.g. `internal-project` references `content/project/internal-project/index.md`.
 #   Otherwise, set `projects: []`.
 projects:
-- internal-project
 
 # Slides (optional).
 #   Associate this publication with Markdown slides.
 #   Simply enter your slide deck's filename without extension.
 #   E.g. `slides: "example"` references `content/slides/example/index.md`.
 #   Otherwise, set `slides: ""`.
-slides: example
+
 ---
 
-{{% callout note %}}
-Create your slides in Markdown - click the *Slides* button to check out the example.
-{{% /callout %}}
-
-Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/).
