@@ -11,6 +11,21 @@ sections:
       title: Biography
       # Choose a user profile to display (a folder name within `content/authors/`)
       username: admin
+
+
+  - block: collection
+    id: featured
+    content:
+      title: Recent Publications
+      text: |-
+      filters:
+        folders:
+          - publication
+        exclude_featured: False
+    design:
+      columns: '2'
+      view: citation
+
   - block: experience
     content:
       title: Experience
@@ -25,30 +40,19 @@ sections:
       items:
         - title: Research Assistant
           company: Clemson University
-          company_url: ''
+          company_url: 'https://www.clemson.edu/'
           location: Greenville.SC
           date_start: '2020-08-01'
           date_end: ''
-          description: |1-
-              * 3D self-supervised learning
-              * 3D semi-supervised learning
+          description: |2-
+              * Self/Semi-supervised learning
+              * 3D classification/detection/segmentation
 
 
     design:
       columns: '2'
 
-  - block: collection
-    id: featured
-    content:
-      title: Recent Publications
-      text: |-
-      filters:
-        folders:
-          - publication
-        exclude_featured: False
-    design:
-      columns: '2'
-      view: citation
+
   - block: contact
     id: contact
     content:
