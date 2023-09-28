@@ -59,7 +59,7 @@ sections:
       title: Contact
       subtitle:
       # Contact (add or remove contact options as necessary)
-      email: zhimnc@clemson.edu
+      email: zhiminc@clemson.edu
       # phone: 888 888 88 88
       address:
         street: 4 Research Drive
