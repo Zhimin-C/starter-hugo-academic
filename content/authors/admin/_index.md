@@ -28,7 +28,7 @@ bio: I am primarily focused on studying computer vision and deep learning, with 
 interests:
   - Self/semi-supervised learning
   - Multi-modality learning
-  - 3D classification/detection/segmentation
+  - 3D Detection/segmentation
   - Foundation models
 
 # Education to show in About widget
