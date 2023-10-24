@@ -77,5 +77,7 @@ email: ''
 highlight_name: true
 ---
 
-I am a fourth-year Ph.D. student at Clemson University. My primary research interests are 3D self-supervised and semi-supervised learning, multi-modality learning, and the application of foundational models in 3D domains. I always welcome the opportunity to explore new research areas.
+I am a fourth-year Ph.D. student at Clemson University. My primary research interests are 3D self-supervised and semi-supervised learning, multi-modality learning, and the application of foundational models in 3D domains. 
+
+I’m open to research internship at 2024 spring, summer, or fall.
 {style="text-align: justify;"}
