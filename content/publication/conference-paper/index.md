@@ -6,6 +6,8 @@ title: 'Bridging the Domain Gap: Self-Supervised 3D Scene Understanding with Fou
 # and it will be replaced with their full name and linked to their profile.
 authors:
   - admin
+  - Longlong Jing
+  - Yingwei Li
   - Bing Li
 
 
