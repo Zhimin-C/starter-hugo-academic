@@ -23,9 +23,6 @@ organizations:
 
 # Short bio (displayed in user profile at end of posts)
 bio: I am primarily focused on studying computer vision and deep learning, with a particular emphasis on 3D self-supervised learning, 3D semi-supervised learning, multi-modality learning, and exploring the application of foundational models in 3D areas.
-
-I’m open to research internship at 2024 spring, summer, or fall.
-
 # Interests to show in About widget
 interests:
   - Self/semi-supervised learning
