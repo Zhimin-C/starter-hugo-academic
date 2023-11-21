@@ -38,7 +38,7 @@ featured: true
 # links:
 # - name: Custom Link
 #   url: http://example.org
-
+url_pdf: https://arxiv.org/abs/2311.10887
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
 image:
