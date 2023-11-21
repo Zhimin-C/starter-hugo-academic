@@ -41,6 +41,7 @@ featured: true
 #   url: http://example.org
 
 url_pdf: https://arxiv.org/pdf/2305.08776.pdf
+url_code: 'https://github.com/Zhimin-C/Bridge3D'
 # url_code: 'https://github.com/wowchemy/wowchemy-hugo-themes'
 
 # Featured image
