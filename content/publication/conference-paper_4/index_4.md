@@ -23,7 +23,7 @@ publication_types: ['1']
 
 # Publication name and optional abbreviated publication name.
 publication:
-publication_short: Submit to *CVPR, 2024*
+publication_short: In Submission
 
 abstract:
 
