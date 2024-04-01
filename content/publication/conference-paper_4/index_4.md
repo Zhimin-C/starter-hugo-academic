@@ -6,9 +6,6 @@ title: 'Zero-shot 3D Semantic Segmentation via Learning from Zero-shot Labels'
 # and it will be replaced with their full name and linked to their profile.
 authors:
   - admin
-  - Yingwei Li
-  - Longlong Jing
-  - Liang Yang
   - Bing Li
 
 date: '2023-11-01T00:00:00Z'
