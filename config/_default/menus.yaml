@@ -12,7 +12,7 @@ main:
     url: '#featured'
     weight: 50
   - name: Experience
-    url: '#experience'
+    url: '#exp'
     weight: 60
   - name: Contact
     url: '#contact'

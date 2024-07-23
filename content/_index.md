@@ -27,7 +27,7 @@ sections:
       view: citation
 
   - block: experience
-    id: experience
+    id: exp
     content:
       title: Experience
 
@@ -67,7 +67,7 @@ sections:
           company_url: 'https://www.clemson.edu/'
           location: Greenville.SC
           date_start: '2020-08-01'
-          date_end: ''
+          date_end: '2024-01-01'
           description: |2-
               * Self/Semi-supervised learning
               * 3D classification/detection/segmentation
