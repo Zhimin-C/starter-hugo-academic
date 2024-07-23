@@ -26,6 +26,9 @@ sections:
       columns: '2'
       view: citation
 
+
+
+
   - block: experience
     id: exp
     content:
@@ -56,6 +59,15 @@ sections:
           description: |2-
               * Working on 3D occupancy forecasting using generative cellular automata.
       items:
+
+        - title: Research Intern
+          company: Honda Research Institute
+          location: San Jose.CA
+          date_start: '2024-01-06'
+          date_end: '2024-05-01'
+          description: |2-
+              * Working on 3D occupancy forecasting using generative cellular automata.
+
         - title: Research Assistant
           company: Clemson University
           company_url: 'https://www.clemson.edu/'
