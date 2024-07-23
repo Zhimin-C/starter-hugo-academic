@@ -44,7 +44,6 @@ sections:
       items:
         - title: Applied Scientist Intern
           company: Amazon
-	  company_url: 'https://www.clemson.edu/'
           location: Seattle.WA
           date_start: '2024-05-13'
           date_end: '2024-08-16'
@@ -54,7 +53,6 @@ sections:
       items:
         - title: Research Intern
           company: Honda Research Institute
-	  company_url: 'https://www.clemson.edu/'
           location: San Jose.CA
           date_start: '2024-01-06'
           date_end: '2024-05-01'
