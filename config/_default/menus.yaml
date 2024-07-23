@@ -6,7 +6,7 @@
 main:
   - name: Home
     url: '#about'
-    weight: 40
+    weight: 38
   - name: Publications
     url: '#featured'
     weight: 48
