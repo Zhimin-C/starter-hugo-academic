@@ -37,6 +37,28 @@ sections:
       #   Required fields are `title`, `company`, and `date_start`.
       #   Leave `date_end` empty if it's your current employer.
       #   Begin multi-line descriptions with YAML's `|1-` multi-line prefix.
+
+
+      items:
+        - title: Applied Scientist Intern
+          company: Amazon
+          location: Seattle.WA
+          date_start: '2024-05-13'
+          date_end: '2024-08-16'
+          description: |2-
+              * Leveraging foundation models for pre-training in image quality assessment tasks.
+
+      items:
+        - title: Research Intern
+          company: Honda Research Institute
+          location: San Jose.CA
+          date_start: '2024-01-06'
+          date_end: '2024-05-01'
+          description: |2-
+              * Working on 3D occupancy forecasting using generative cellular automata.
+
+  
+
       items:
         - title: Research Assistant
           company: Clemson University

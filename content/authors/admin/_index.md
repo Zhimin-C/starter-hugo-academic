@@ -22,7 +22,7 @@ organizations:
     url: https://www.clemson.edu/
 
 # Short bio (displayed in user profile at end of posts)
-bio: I am primarily focused on studying computer vision and deep learning, with a particular emphasis on 3D self-supervised learning, 3D semi-supervised learning, multi-modality learning, and exploring the application of foundational models in 3D areas.
+bio: I am primarily focused on studying computer vision and deep learning, with a particular emphasis on image quality assessment, self-supervised learning, semi-supervised learning, multi-modality learning, and foundational models.
 # Interests to show in About widget
 interests:
   - Self/semi-supervised learning
@@ -74,7 +74,8 @@ email: ''
 highlight_name: true
 ---
 
-I am a fourth-year Ph.D. student at Clemson University. My primary research interests are 3D self-supervised and semi-supervised learning, multi-modality learning, and the application of foundational models in 3D domains. 
+I am primarily focused on studying computer vision and deep learning, with a particular emphasis on image quality assessment, self-supervised learning, semi-supervised learning, multi-modality learning, and foundational models.
 
-I am open to research internship at 2024 spring, summer, or fall.
+I am open to full-time positions or research internships starting in Fall 2024 or in 2025.
+
 {style="text-align: justify;"}
