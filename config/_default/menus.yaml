@@ -9,7 +9,7 @@ main:
     weight: 40
   - name: Publications
     url: '#featured'
-    weight: 50
+    weight: 48
   - name: Experience
     url: '#exp'
     weight: 60
