@@ -1,14 +1,18 @@
 ---
-title: 'Zero-shot 3D Semantic Segmentation via Learning from Zero-shot Labels'
+title: 'SAM-Guided Masked Token Prediction for 3D Scene Understanding'
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
 # and it will be replaced with their full name and linked to their profile.
 authors:
   - admin
+  - Longlong Jing
+  - Yingwei Li
   - Bing Li
 
-date: '2024-05-01T00:00:00Z'
+
+date: '2024-09-01T00:00:00Z'
+doi: ''
 
 # Schedule page publish date (NOT publication's date).
 
@@ -19,10 +23,9 @@ date: '2024-05-01T00:00:00Z'
 publication_types: ['1']
 
 # Publication name and optional abbreviated publication name.
-publication:
-publication_short: In Submission
+publication: Advances on Neural Information Processing Systems (NeurIPS)
+publication_short: In *NeurIPS, 2024*
 
-abstract:
 
 # Summary. An optional shortened abstract.
 
@@ -35,6 +38,9 @@ featured: true
 # links:
 # - name: Custom Link
 #   url: http://example.org
+
+
+# url_code: 'https://github.com/wowchemy/wowchemy-hugo-themes'
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
